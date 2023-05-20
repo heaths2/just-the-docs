@@ -1,9 +1,8 @@
 ---
 layout: default
 title: programing
-parent: Blog
-grand_parent: Category
-permalink: docs/category/blog/programing
+parent: Category
+permalink: docs/category/programing
 child_nav_order: desc
 ---
 # programing
