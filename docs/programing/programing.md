@@ -2,8 +2,8 @@
 layout: default
 title: programing
 parent: Category
+has_children: true
 permalink: docs/category/programing
-child_nav_order: desc
 ---
 # programing
 {: .no_toc}
