@@ -1,6 +1,6 @@
 ---
 layout: default
-title: programing
+title: Programing
 parent: Category
 has_children: true
 permalink: docs/category/programing
