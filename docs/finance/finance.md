@@ -6,7 +6,7 @@ has_children: true
 permalink: docs/category/finance
 ---
 
-## 개요
+# 금융
 
 > - 금융정보
 {: .new }
