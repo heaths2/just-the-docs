@@ -5,32 +5,8 @@ parent: Category
 has_children: true
 permalink: docs/category/programing
 ---
-# programing
-{: .no_toc}
 
-## Table of contents
-{: .no_toc .text-delta }
+# Programing
 
-1. TOC
-{:toc}
-
----
-## 개요
-
-> - SSH 키교환 및 알고리즘 오류
+> - 스크립트 정보
 {: .new }
-
-### nmap으로 Clinet 키교환 방식 및 알고리즘 확인
-
-```bash
-nmap --script ssh2-enum-algos 192.168.0.1
-```
-
-### ssh 알고리즘 옵션 적용
-
-```bash
-ssh -oKexAlgorithms=diffie-hellman-group1-sha1 -oCiphers=aes128-cbc,3des-cbc,aes192-cbc,aes256-cbc root@192.168.0.1
-```
-
-
-
